@@ -1,0 +1,27 @@
+.border-shadow {
+  border: 1px solid #e2e2e2;
+  box-shadow: 2px 2px #e2e2e2;
+}
+#masonry-layout div.four.wide.column {
+  width: 275px;
+}
+i.large.icon.iconmargin {
+  margin: 1px;
+}
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+  #masonry-layout div.four.wide.column {
+    width: 290px;
+    margin: 15px;
+  }
+  i.large.icon.iconmargin {
+    margin: 5px;
+  }
+}
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  #masonry-layout div.four.wide.column {
+    width: 235px;
+  }
+  i.large.icon.iconmargin {
+    margin: 2px;
+  }
+}

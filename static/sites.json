@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "Manifestality",
+    "subtitle": "Ongoing Project",
+    "url": "http://manifestality.com",
+    "image": "/static/images/sites/manifestality.png",
+    "description": "This project is using OpenTOK API, Pusher API and checkout.com and paypal for payment integration. Technologies used: PHP (Laravel 5.x as framework), MySQL, Redis"
+  },
+  {
+    "id": 2,
+    "name": "SpicyTime",
+    "subtitle": "Completed",
+    "url": "http://spicytime.ca",
+    "image": "/static/images/sites/spicytime.png",
+    "description": "This project is using Wordpress and Woocommerce."
+  },
+  {
+    "id": 3,
+    "name": "Islamic Foundation",
+    "subtitle": "Completed",
+    "url": "http://islamic-foundation.com",
+    "image": "/static/images/sites/islamic-foundation.png",
+    "description": "This project is using Wordpress and Woocommerce."
+  },
+  {
+    "id": 4,
+    "name": "Kube Publishing",
+    "subtitle": "Completed",
+    "url": "http://kubepublishing.com",
+    "image": "/static/images/sites/kube-publishing.png",
+    "description": "This project is using Wordpress and Woocommerce. It is also using yoothemes as wordpress theme."
+  },
+  {
+    "id": 5,
+    "name": "Quran",
+    "subtitle": "On going",
+    "url": "http://sajidzaman.com/quranapp",
+    "image": "/static/images/sites/quran-app.png",
+    "description": "This project was built using ReactJS, Redux and AlQuran.cloud api"
+  },
+  {
+    "id": 6,
+    "name": "Pak World Expo",
+    "subtitle": "Completed",
+    "url": "http://www.pakworldexpo.com/",
+    "image": "/static/images/sites/pakworldexpo.png",
+    "description": "This project was built using Wordpress"
+  },
+  {
+    "id": 7,
+    "name": "BA Dairies",
+    "subtitle": "Completed",
+    "url": "https://www.badairies.co.uk/",
+    "image": "/static/images/sites/badairies.png",
+    "description": "This project was built using PHP , CodeIgniter."
+  },
+  {
+    "id": 8,
+    "name": "Desktop VoicePlus",
+    "subtitle": "Worked on it during 2014",
+    "url": "http://desktop.voiceplus.com.au",
+    "image": "/static/images/sites/desktop-voiceplus.png",
+    "description": "This project uses ExtJS and PHP at backend"
+  },
+  {
+    "id": 9,
+    "name": "KS International",
+    "subtitle": "Worked on it during 2006",
+    "url": "https://www.ks-international.com/",
+    "image": "/static/images/sites/ksint.png",
+    "description": "This project uses PHP and MySQL"
+  },
+  {
+    "id": 10,
+    "name": "SlidArt",
+    "subtitle": "completed",
+    "url": "https://slidart.com",
+    "image": "/static/images/sites/slidart.png",
+    "description": "This project use PHP with CakePHP framework, Elasticsearch at backend for mobile app web service API"
+  },
+  {
+    "id": 11,
+    "name": "Foooder",
+    "subtitle": "completed",
+    "url": "http://foooder.com",
+    "image": "/static/images/sites/foooder.png",
+    "description": "This project uses PHP with CakePHP framework, Elasticsearch at backend for mobile app web service API"
+  },
+  {
+    "id": 12,
+    "name": "AgriforValor",
+    "subtitle": "completed",
+    "url": "https://agriforvalor.eu",
+    "image": "/static/images/sites/agriforvalor.png",
+    "description": "This project uses PHP with CakePHP framework and MySQL database"
+  },
+  {
+    "id": 13,
+    "name": "Abax ELT Publishing",
+    "subtitle": "completed",
+    "url": "http://abax.co.jp/",
+    "image": "/static/images/sites/abax.png",
+    "description": "This project uses PHP and MySQL database"
+  },
+  {
+    "id": 14,
+    "name": "RSS Careers",
+    "subtitle": "completed",
+    "url": "http://rsscareers.com/",
+    "image": "/static/images/sites/rsscareers.png",
+    "description": "This project uses PHP (Laravel 5 Framework) and MySQL database"
+  },
+  {
+    "id": 15,
+    "name": "Alamgirians",
+    "subtitle": "completed",
+    "url": "http://alamgirians.org/home",
+    "image": "/static/images/sites/alamgirians.png",
+    "description": "This project uses PHP (Laravel 4 Framework) and MySQL database"
+  },
+  {
+    "id": 16,
+    "name": "Nissen UK",
+    "subtitle": "completed",
+    "url": "http://nissen-uk.com/",
+    "image": "/static/images/sites/nissenuk.png",
+    "description": "This project uses Wordpress with custom theme using Custom Post Types and Advanced Custom Fields. The company also has nissen-middleeast.com website."
+  },
+  {
+    "id": 17,
+    "name": "Daily The Patriot",
+    "subtitle": "completed",
+    "url": "http://dailythepatriot.com/",
+    "image": "/static/images/sites/dtp.png",
+    "description": "This project uses Wordpress with custom theme using Custom Post Types and Advanced Custom Fields."
+  }
+]
