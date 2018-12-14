@@ -24,8 +24,7 @@ const Index = () => {
   //console.log(sites);
   return (
     <React.Fragment>
-    <Head>
-       <meta charset="utf-8" />    
+    <Head>       
        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="Sajid Badi-uz-zaman - sajidzaman.com" />
@@ -109,18 +108,13 @@ const Index = () => {
             </Header.Subheader>
           </GridColumn>
         </GridRow>
-        <GridRow className="masonry">
-          <MasonryLayout
-            id="masonry-layout"
-            sizes={[
-              { columns: 2, gutter: 20 },
-              { mq: "768px", columns: 3, gutter: 20 },
-              { mq: "1024px", columns: 4, gutter: 20 }
-            ]}
-          >
+        
+      </Grid>
+      <div className="ui four column doubling stackable masonry grid">
+         
             {sites.map(site => {
               return (
-                <GridColumn width={4} key={site.id}>
+                <GridColumn key={site.id}>
                   <Card raised>
                     <a href={site.url} target="_blank">
                       <Image src={site.image} size="medium" />
@@ -138,9 +132,8 @@ const Index = () => {
                 </GridColumn>
               );
             })}
-          </MasonryLayout>
-        </GridRow>
-      </Grid>
+        
+        </div>
     </Container>
     </React.Fragment>
   );
